@@ -21,8 +21,7 @@
 
 - ⚡ Fun fact **I think I know how to code, but its just a bunch of chatgpt**
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsskiwee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsskiwee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=itsskiwee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=itsskiwee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsskiwee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
