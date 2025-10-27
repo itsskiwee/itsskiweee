@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate Cybersecurity student from Canada</h3>
 
 - 🔭 I’m currently working with Antaraloka **Platform**
 
