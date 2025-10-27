@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Cybersecurity student from Canada</h3>
 
-- 🔭 I’m currently working with Antaraloka **Platform**
+- 🔭 I’m currently working with Antaraloka on a **Platform**
 
 - 🌱 I’m currently learning **React, Rust, Ruby, Aws, and more**
 
