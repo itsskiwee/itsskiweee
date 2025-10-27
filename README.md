@@ -20,12 +20,6 @@
 - 📄 Know about my experiences [(coming soon)]((coming soon))
 
 - ⚡ Fun fact **I think I know how to code, but its just a bunch of chatgpt**
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsskiwee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=itsskiwee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsskiwee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=itsskiwee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Connect with me:</h3>
